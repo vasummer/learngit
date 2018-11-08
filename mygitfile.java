@@ -1,5 +1,7 @@
 package com.cdel.sscc.zipkin.thepac;
 
+
+fuck
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
@@ -19,7 +21,7 @@ public class MyConfig {
 
     public void show(){
 
-        
+
         System.out.println("===========================================");
         System.out.println("intPort :   " + intPort);
         System.out.println("appname :   " + appname);
