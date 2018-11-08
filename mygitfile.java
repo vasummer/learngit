@@ -18,6 +18,8 @@ public class MyConfig {
     @Value("${db.link.password}")private String dbPassword;*/
 
     public void show(){
+
+        
         System.out.println("===========================================");
         System.out.println("intPort :   " + intPort);
         System.out.println("appname :   " + appname);
